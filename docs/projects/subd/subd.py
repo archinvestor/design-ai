@@ -1,6 +1,8 @@
 import Rhino.Geometry as rh
 from scriptcontext import doc
 
+this is a test
+
 # get absolute and angle tolerances from document
 abs_tol = doc.ModelAbsoluteTolerance
 ang_tol = doc.ModelAngleToleranceRadians
